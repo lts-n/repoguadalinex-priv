@@ -1,0 +1,28 @@
+Package: guadalia
+Version: 2.6.2
+Architecture: all
+Maintainer: Leonardo Gaviño
+Depends: python3, python3-pip, python3-tk
+Filename: pool/main/guadalia-2.6.2-all.deb
+Size: 4728692
+MD5sum: 5562b39f36a0d5a09dbfe8b8d589a36a
+SHA1: 400cef77eebbcfe62b75a4231d1527f854000d71
+SHA256: 87510024873ba804bb7baee95cf49a7a287c35f1a6c3d354c00015e10b05c6c0
+Section: utils
+Priority: optional
+Description: Paquete Debian de GuadalIA M2.6 + Macarena
+
+Package: guadalinexwelcome
+Version: 1.0.1
+Architecture: all
+Maintainer: Fundación LTS-N
+Depends: python3, python3-pip, python3-tk
+Filename: pool/main/guadalinexwelcome-1.0.1-all.deb
+Size: 3432
+MD5sum: 92cd6aabacdfaa259dc30b95b44eca6e
+SHA1: 5e79df5e7291a19bf5ae730cfbc0453c40f22c95
+SHA256: 1bfde6739c59c3cf498a6f8666cc5645c246a1ee7f2b3d70e4b87b3344cc40d0
+Section: utils
+Priority: optional
+Description: Aplicación de bienvenida de Guadalinex.
+

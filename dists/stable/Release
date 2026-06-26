@@ -1,0 +1,13 @@
+Suite: stable
+Component: main
+Architecture: all
+Date: Wed, 24 Jun 2026 18:38:11 +0200
+MD5Sum:
+ 96f80121231541c539bc406724c11f1b 875 main/binary-all/Packages
+ 7c304991e7cb3570149fbc859dfc68a4 509 main/binary-all/Packages.gz
+SHA1:
+ 41e182de75fd5ce4693d8ace09fbfee31f30fa12 875 main/binary-all/Packages
+ 4decdd26bd2c759e8d4886ca469fe23686b76252 509 main/binary-all/Packages.gz
+SHA256:
+ 98bfb2b5a615a0efd86e290688d7c41cd21b86ec6c2bc80598973d24b05c5754 875 main/binary-all/Packages
+ c85023fa80f4b3bcc6ac3fc9019a01c2852b8f9c95825dbadd286f8c2fccd414 509 main/binary-all/Packages.gz
